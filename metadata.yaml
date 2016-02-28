@@ -1,0 +1,32 @@
+_repo: Poemata-Latin-Greek-and-Italian-Poems-by-John-Milton_6929
+contributor:
+  translator:
+    agent_name: Cowper, William
+    birthdate: 1731
+    deathdate: 1800
+    gutenberg_agent_id: '1270'
+    url: http://www.gutenberg.org/2009/agents/1270
+    wikipedia: http://en.wikipedia.org/wiki/William_Cowper
+creator:
+  author:
+    agent_name: Milton, John
+    birthdate: 1608
+    deathdate: 1674
+    gutenberg_agent_id: '17'
+    url: http://www.gutenberg.org/2009/agents/17
+    wikipedia: http://en.wikipedia.org/wiki/John_Milton
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6929'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PR'
+- !lcsh 'Milton, John, 1608-1674 -- Translations into English'
+title: 'Poemata : Latin, Greek and Italian Poems by John Milton'
+url: http://www.gutenberg.org/ebooks/6929
